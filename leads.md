@@ -1,5 +1,8 @@
 # Sales Leads Index
 
+## The Plan
+First read our [Sales Playbook](sales_playbook.md).
+
 ## Status Legend
 *   **To Research**: Need to verify if they have a fleet.
 *   **To Call**: Contact identified, ready for first outreach.
