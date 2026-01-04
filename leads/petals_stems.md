@@ -1,0 +1,24 @@
+# Lead Profile: Petals and Stems Florist
+
+## 🏢 Company Overview
+*   **Industry**: Florist
+*   **Location**: Suffern (Rockland)
+*   **Fleet Details**: Delivery Vans (Wedding focus).
+*   **Service Area**: Tri-State.
+
+## 🎯 Decision Maker
+*   **Name**: Lenny & Robin
+*   **Role**: Owners / Key Personnel.
+*   **History**: Since 1987.
+
+## 🔌 The "In" (Connection Points)
+*   **Tri-State Delivery**: They go far (NJ/NY). High mileage.
+    *   *Pitch*: "You cover the whole Tri-State. That puts a lot of miles on your vans. High mileage needs high-frequency maintenance (Oil/Tires). We do it fast."
+*   **Weddings**: High stress, zero margin for error.
+
+## 🛠️ Current Maintenance
+*   **Status**: Local shop.
+*   **Opportunity**: Ease of use.
+
+## 📝 Notes
+*   Suffern is a border town (near NJ). Mention you cover them locally.
