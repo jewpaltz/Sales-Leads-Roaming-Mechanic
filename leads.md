@@ -2,6 +2,7 @@
 
 ## The Plan
 First read our [Sales Playbook](sales_playbook.md).
+How these leads were generated [Methodology](methodology.md).
 
 ## Status Legend
 *   **To Research**: Need to verify if they have a fleet.
