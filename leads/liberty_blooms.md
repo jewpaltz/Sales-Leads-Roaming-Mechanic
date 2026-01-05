@@ -9,6 +9,7 @@
 ## 🎯 Decision Maker
 *   **Name**: Jean Dermer & Tami VanLeuven
 *   **Role**: Owners
+*   **Contact**: `845-747-9404` / `321-266-8552` (Order Line).
 *   **Designer**: Joseph Topolski.
 
 ## 🔌 The "In" (Connection Points)

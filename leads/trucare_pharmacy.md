@@ -9,6 +9,7 @@
 ## 🎯 Decision Maker
 *   **Name**: Salman Dar (RPh)
 *   **Role**: Owner / Supervising Pharmacist.
+*   **Contact**: `(845) 364-5300`
 *   **Style**: Family-owned independent pharmacy.
 
 ## 🔌 The "In" (Connection Points)

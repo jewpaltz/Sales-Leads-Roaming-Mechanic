@@ -9,6 +9,7 @@
 ## 🎯 Decision Maker
 *   **Name**: The Siegel Family
 *   **Role**: Owners
+*   **Contact**: `(845) 352-1147`
 *   **History**: Founded ~1970. 50+ Years in business.
 *   **Community**: Very active in local associations (PRC, etc.).
 

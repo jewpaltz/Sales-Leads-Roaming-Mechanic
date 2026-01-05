@@ -7,8 +7,9 @@
 *   **Service Area**: Sullivan County -> NYC / Airports. High mileage fleet.
 
 ## 🎯 Decision Maker
-*   **Name**: *Unknown specific owner name from initial search*
-*   **Contact**: (845) 428-1674
+*   **Name**: Owner / Manager
+*   **Contact**: `Dependable@Catskill.net` / `(845) 428-1674`
+*   **Role**: Small business owner.(845) 428-1674
 *   **Structure**: Likely small business / owner-operator led.
 
 ## 🔌 The "In" (Connection Points)

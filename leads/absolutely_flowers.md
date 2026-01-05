@@ -9,6 +9,7 @@
 ## 🎯 Decision Maker
 *   **Name**: Alan & Janet
 *   **Role**: Owners / Managers.
+*   **Contact**: `(845) 342-6867`
 *   **Style**: Local, Family-owned.
 
 ## 🔌 The "In" (Connection Points)

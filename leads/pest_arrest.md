@@ -9,6 +9,7 @@
 ## 🎯 Decision Maker
 *   **Name**: Chris Petty
 *   **Role**: Owner / Founder
+*   **Contact**: `cpetty.pestarrest@gmail.com` / Mobile: `+1-731-445-0568`
 *   **History**: Founded 2005. Local expert.
 
 ## 🔌 The "In" (Connection Points)

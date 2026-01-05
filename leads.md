@@ -26,6 +26,11 @@
 | **Victory Pest** | Rockland | Len Oppenberg | Discreet/Unmarked | To Call | [View Profile](leads/victory_pest.md) |
 | **Dave's Pest Control** | Orange/Sullivan | Dave Luczyski | Wildlife Trucks | To Call | [View Profile](leads/daves_pest.md) |
 | **Pestech** | Sullivan (Ferndale) | Branch Manager | Large Fleet (Corp) | To Call | [View Profile](leads/pestech.md) |
+| **Evergreen Market** | Monsey/Spring Valley | Yossi Brachfeld (CEO) | Delivery Fleet | To Call | [View Profile](leads/evergreen_market.md) |
+| **Rockland Kosher** | Monsey | Thomas Klein | Catering/Delivery | To Call | [View Profile](leads/rockland_kosher.md) |
+| **Bingo Wholesale** | Monsey | David Weiss | Delivery Fleet | To Call | [View Profile](leads/bingo_wholesale.md) |
+| **KJ Poultry** | Monroe/KJ | Joel Weiss | Distribution Fleet | To Call | [View Profile](leads/kj_poultry.md) |
+| **Landau's** | Monroe/KJ | Family Owners | Delivery Vans | To Call | [View Profile](leads/landaus.md) |
 | **Maid Brigade** | Rockland (New City) | Local Owner | Cleaners (Cars) | To Call | [View Profile](leads/maid_brigade.md) |
 | **Merry Maids** | Rockland (Congers) | Ed Roth | Cleaners (Cars) | To Call | [View Profile](leads/merry_maids.md) |
 | **Bassett Flowers** | Rockland (New City) | "Brooks" (?) | Delivery Vans | To Call | [View Profile](leads/bassett_flowers.md) |

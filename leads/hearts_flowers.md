@@ -9,6 +9,7 @@
 ## 🎯 Decision Maker
 *   **Name**: Allison Watkins
 *   **Role**: Principal / Owner.
+*   **Contact**: `(845) 744-3596`
 
 ## 🔌 The "In" (Connection Points)
 *   **Full Service**: They emphasize being a "Full Service" florist.

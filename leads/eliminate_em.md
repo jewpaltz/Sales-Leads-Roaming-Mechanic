@@ -9,6 +9,7 @@
 ## 🎯 Decision Maker
 *   **Name**: Kenny Vayda
 *   **Role**: Owner / Managing Member
+*   **Contact**: `(866) 802-7378` / `eliminateempestmanagement@yahoo.com`
 *   **Style**: Family-owned, Customer-service focused ("24/7 Service").
 
 ## 🔌 The "In" (Connection Points)

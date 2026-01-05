@@ -3,12 +3,13 @@
 ## 🏢 Company Overview
 *   **Industry**: Home Healthcare
 *   **Location**: Rockland County / Westchester HQ
-*   **Fleet Details**: **Known Fleet**. In 2019, they leased a fleet of Subaru Imprezas for clinical staff.
+*   **Fleet Details**: **Known Fleet**. In 2019, they leased a fleet of **Subaru Imprezas** (AWD for reliability). Likely 20-50+ vehicles given staff size of 600+.
 *   **Service Area**: Rockland & Westchester.
 
 ## 🎯 Decision Maker
-*   **Name**: Jennifer Brullo (CEO) / Operations Director
+*   **Name**: Jennifer Brullo (President & CEO)
 *   **Role**: Executive leadership.
+*   **Contact**: `(914) 682-1480` (Main) / `jbrullo@vns.org` (Direct CEO Email).
 *   **Constraint**: Corporate structure may require navigating through "Facilities" or "Operations".
 
 ## 🔌 The "In" (Connection Points)

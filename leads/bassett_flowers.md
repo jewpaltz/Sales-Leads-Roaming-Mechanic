@@ -9,6 +9,7 @@
 ## 🎯 Decision Maker
 *   **Name**: "Brooks" (Key figure/Owner?)
 *   **Type**: Woman-owned Business.
+*   **Contact**: `(845) 634-3638`
 *   **History**: 60+ Years in New City.
 
 ## 🔌 The "In" (Connection Points)

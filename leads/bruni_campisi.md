@@ -1,15 +1,16 @@
 # Lead Profile: Bruni & Campisi
 
 ## 🏢 Company Overview
-*   **Industry**: Plumbing, HVAC
-*   **Location**: Elmsford (Westchester) / Rockland.
-*   **Fleet Estimate**: **Large**. "Red Fleet". 40+ years in business.
+*   **Industry**: HVAC / Plumbing
+*   **Location**: Elmsford (HQ) / Rockland Service Area
+*   **Fleet Estimate**: **25-30+ Trucks**. Iconic "Red Fleet".
 *   **Service Area**: Westchester / Rockland / CT.
 
 ## 🎯 Decision Maker
 *   **Name**: Mario Bruni
-*   **Role**: Owner / Partner
-*   **Family**: Family-owned business.
+*   **Role**: President / Owner
+*   **Contact**: `(914) 372-6478` / `info@brucaminc.com` (Monitor for "Attn: Mario")
+*   **Style**: "We do it all" - Fleet uptime is critical for their brand promise.
 
 ## 🔌 The "In" (Connection Points)
 *   **Brand Image**: Their fleet is ICONIC red trucks.

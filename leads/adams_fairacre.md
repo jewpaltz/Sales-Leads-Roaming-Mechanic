@@ -9,6 +9,7 @@
 ## 🎯 Decision Maker
 *   **Name**: Pat Adams (CEO) / Steve Adams (COO) / Store Manager (Middletown)
 *   **Role**: Family Owners / Local Management.
+*   **Contact**: `(845) 415-8500` (Middletown Store).
 *   **Structure**: 5 stores, family run.
 
 ## 🔌 The "In" (Connection Points)

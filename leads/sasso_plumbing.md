@@ -9,6 +9,7 @@
 ## 🎯 Decision Maker
 *   **Name**: Mike Sasso
 *   **Role**: Owner / Key Figure
+*   **Contact**: `(845) 638-2900` / `sassoplumbing@gmail.com`
 *   **Personal Info**: 
     *   Sasso Plumbing has been serving the area since 1977.
     *   Mike is frequently praised in reviews for professionalism.

@@ -9,6 +9,7 @@
 ## 🎯 Decision Maker
 *   **Name**: Manuel (Manny) Guzman
 *   **Role**: CEO / Owner
+*   **Contact**: `845-360-6410`
 *   **Family**: Son Nick Guzman is Sales/Marketing.
 *   **Style**: Family-owned, Minority-owned(? - verify), Community focused.
 
