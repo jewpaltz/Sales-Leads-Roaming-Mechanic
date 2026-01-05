@@ -22,5 +22,10 @@
 *   **Status**: Small fleet of sedans.
 *   **Opportunity**: Convenience.
 
+## 🔍 Research Links
+*   **Google Business Profile**: [Search "TruCare Pharmacy Monsey NY"](https://www.google.com/search?q=TruCare+Pharmacy+Monsey+NY)
+*   **LinkedIn Company**: [Search LinkedIn](https://www.linkedin.com/search/results/companies/?keywords=TruCare%20Pharmacy)
+*   **Local Business Info**: [Better Business Bureau](https://www.bbb.org/search?find_text=TruCare%20Pharmacy%20Monsey%20NY)
+
 ## 📝 Notes
 *   Independent pharmacies hate chains (CVS/Walgreens). Support the "Local Independent" angle.

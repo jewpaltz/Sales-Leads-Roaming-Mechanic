@@ -22,5 +22,10 @@
 *   **Status**: Small business, likely one/two vehicles.
 *   **Opportunity**: Personal service.
 
+## 🔍 Research Links
+*   **Google Business Profile**: [Search "Liberty Blooms Monticello NY"](https://www.google.com/search?q=Liberty+Blooms+Monticello+NY)
+*   **Facebook Page**: [Search Facebook](https://www.facebook.com/search/top?q=Liberty%20Blooms%20Monticello)
+*   **Local Business Info**: [Better Business Bureau](https://www.bbb.org/search?find_text=Liberty%20Blooms%20Monticello%20NY)
+
 ## 📝 Notes
 *   Small business pitch: "One less errand for you to run."

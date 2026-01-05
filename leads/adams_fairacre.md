@@ -22,5 +22,10 @@
 *   **Status**: Likely has an internal team for the big trucks, but maybe not for the small vans.
 *   **Opportunity**: "Small Engine / Van" specialist to supplement their heavy team.
 
+## 🔍 Research Links
+*   **Company Website**: [Adams Fairacre Farms](https://adamsfarms.com/)
+*   **Google Business Profile**: [Search "Adams Fairacre Farms Middletown NY"](https://www.google.com/search?q=Adams+Fairacre+Farms+Middletown+NY)
+*   **LinkedIn Company**: [Search LinkedIn](https://www.linkedin.com/search/results/companies/?keywords=Adams%20Fairacre%20Farms)
+
 ## 📝 Notes
 *   This is a big target. Aim for the "Fleet Manager" of the specific store.

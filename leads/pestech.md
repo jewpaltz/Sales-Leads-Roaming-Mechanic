@@ -21,5 +21,10 @@
 *   **Status**: Corporate Fleet Management.
 *   **Opportunity**: Emergency / Overflow / Unauthorized minor maintenance.
 
+## 🔍 Research Links
+*   **Company Website**: [Pestech Pest Solutions](https://pestech.com/)
+*   **Google Business Profile**: [Search "Pestech Pest Solutions Middletown NY"](https://www.google.com/search?q=Pestech+Pest+Solutions+Middletown+NY)
+*   **Pest Control Directory**: [PestWorld Directory](https://www.pestworld.org/find-a-pest-control-professional/)
+
 ## 📝 Notes
 *   Don't try to get the "whole fleet". Pitch "Emergency/Gap" coverage.

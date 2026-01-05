@@ -22,5 +22,10 @@
 *   **Status**: Likely local shop.
 *   **Opportunity**: Scheduled Maintenance (Saturdays or mornings).
 
+## 🔍 Research Links
+*   **Company Website**: [Maid Brigade](https://www.maidbrigade.com/)
+*   **Google Business Profile**: [Search "Maid Brigade Rockland NY"](https://www.google.com/search?q=Maid+Brigade+Rockland+NY)
+*   **LinkedIn Company**: [Search LinkedIn](https://www.linkedin.com/search/results/companies/?keywords=Maid%20Brigade)
+
 ## 📝 Notes
 *   Located in New City. High income area.

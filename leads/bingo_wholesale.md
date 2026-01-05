@@ -21,5 +21,10 @@
 *   **Status**: Corporate.
 *   **Opportunity**: Lowering overhead.
 
+## 🔍 Research Links
+*   **Google Business Profile**: [Search "Bingo Wholesale Foods Middletown NY"](https://www.google.com/search?q=Bingo+Wholesale+Foods+Middletown+NY)
+*   **LinkedIn Company**: [Search LinkedIn](https://www.linkedin.com/search/results/companies/?keywords=Bingo%20Wholesale%20Foods)
+*   **Local Business Info**: [Better Business Bureau](https://www.bbb.org/search?find_text=Bingo%20Wholesale%20Middletown%20NY)
+
 ## 📝 Notes
 *   Being a "Club" store, they understand "Maintenance" and "Overhead". Speak their language: Cost Savings.

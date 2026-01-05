@@ -22,5 +22,10 @@
 *   **Status**: Local shop.
 *   **Opportunity**: Convenience in a rural area.
 
+## 🔍 Research Links
+*   **Google Business Profile**: [Search "Monticello Greenhouses NY"](https://www.google.com/search?q=Monticello+Greenhouses+NY)
+*   **Facebook Page**: [Search Facebook](https://www.facebook.com/search/top?q=Monticello%20Greenhouses)
+*   **Local Business Info**: [Better Business Bureau](https://www.bbb.org/search?find_text=Monticello%20Greenhouses%20NY)
+
 ## 📝 Notes
 *   A classic Sullivan County business. Small town interaction style.

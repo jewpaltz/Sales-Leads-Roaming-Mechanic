@@ -22,5 +22,10 @@
 *   **Status**: Local mechanic.
 *   **Opportunity**: Convenience.
 
+## 🔍 Research Links
+*   **Google Business Profile**: [Search "Landau's Supermarket Monsey NY"](https://www.google.com/search?q=Landau%27s+Supermarket+Monsey+NY)
+*   **LinkedIn Company**: [Search LinkedIn](https://www.linkedin.com/search/results/companies/?keywords=Landau%27s%20Supermarket)
+*   **Local Business Info**: [Better Business Bureau](https://www.bbb.org/search?find_text=Landau%20Supermarket%20Monsey%20NY)
+
 ## 📝 Notes
 *   A staple in the KJ community.

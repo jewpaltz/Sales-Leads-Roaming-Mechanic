@@ -22,5 +22,10 @@
 *   **Status**: Local mechanic.
 *   **Opportunity**: Relationship build.
 
+## 🔍 Research Links
+*   **Company Website**: [Absolutely Flowers](https://absolutelyflowers.net/)
+*   **Google Business Profile**: [Search "Absolutely Flowers Middletown NY"](https://www.google.com/search?q=Absolutely+Flowers+Middletown+NY)
+*   **Local Business Info**: [Better Business Bureau](https://www.bbb.org/search?find_text=Absolutely%20Flowers%20Middletown%20NY)
+
 ## 📝 Notes
 *   Target Alan.

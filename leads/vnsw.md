@@ -23,5 +23,10 @@
 *   **Opportunity**: Convenience for nurses who take cars home?
     *   *Script Adjustment*: "If your nurses take the cars home, we can service them at the office during team meetings so they don't lose field time."
 
+## 🔍 Research Links
+*   **Company Website**: [Visiting Nurse Services](https://www.vns.org/)
+*   **Google Business Profile**: [Search "Visiting Nurse Services Rockland NY"](https://www.google.com/search?q=Visiting+Nurse+Services+Rockland+NY)
+*   **LinkedIn Company**: [Search LinkedIn](https://www.linkedin.com/search/results/companies/?keywords=Visiting%20Nurse%20Services%20Westchester)
+
 ## 📝 Notes
 *   This is a "high volume, low repair" account (Oil changes, tires, inspections). Ideal for the "Maintenance Only" model.

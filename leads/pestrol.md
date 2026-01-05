@@ -23,5 +23,10 @@
 *   **Status**: Unknown.
 *   **Opportunity**: Reliability.
 
+## 🔍 Research Links
+*   **Google Business Profile**: [Search "Pestrol Pest Control Middletown NY"](https://www.google.com/search?q=Pestrol+Pest+Control+Middletown+NY)
+*   **Pest Control Directory**: [PestWorld Directory](https://www.pestworld.org/find-a-pest-control-professional/)
+*   **Local Business Info**: [Better Business Bureau](https://www.bbb.org/search?find_text=Pestrol%20Middletown%20NY)
+
 ## 📝 Notes
 *   Target Nick (Marketing) for the "Image" angle –> Clean, running trucks = Good Marketing.

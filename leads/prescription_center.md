@@ -20,5 +20,10 @@
 *   **Status**: Private vehicle use or small shop.
 *   **Opportunity**: One-stop service.
 
+## 🔍 Research Links
+*   **Google Business Profile**: [Search "Prescription Center Pharmacy Monsey NY"](https://www.google.com/search?q=Prescription+Center+Pharmacy+Monsey+NY)
+*   **LinkedIn Company**: [Search LinkedIn](https://www.linkedin.com/search/results/companies/?keywords=Prescription%20Center%20Pharmacy)
+*   **Local Business Info**: [Better Business Bureau](https://www.bbb.org/search?find_text=Prescription%20Center%20Monsey%20NY)
+
 ## 📝 Notes
 *   Tallman is a wealthy area. Professionalism is key.

@@ -21,5 +21,10 @@
 *   **Status**: Local shop.
 *   **Opportunity**: Speed.
 
+## 🔍 Research Links
+*   **Company Website**: [Rockland Kosher](https://rocklandkosher.com/)
+*   **Google Business Profile**: [Search "Rockland Kosher Nanuet NY"](https://www.google.com/search?q=Rockland+Kosher+Nanuet+NY)
+*   **Contact**: (845) 425-2266 ext 400
+
 ## 📝 Notes
 *   Located in Shoppers Haven. Very busy lot. Offering to service "off hours" or early morning might work.

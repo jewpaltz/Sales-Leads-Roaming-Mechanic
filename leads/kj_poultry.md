@@ -22,5 +22,10 @@
 *   **Status**: Likely heavy truck shop for the big rigs.
 *   **Opportunity**: Service the **Light Duty** vans/cars that the big truck shops ignore.
 
+## 🔍 Research Links
+*   **Company Website**: [KJ Poultry](https://kjpoultry.com/)
+*   **Google Business Profile**: [Search "KJ Poultry Monroe NY"](https://www.google.com/search?q=KJ+Poultry+Monroe+NY)
+*   **Contact**: 845-783-8085 | info@kjpoultry.com
+
 ## 📝 Notes
 *   Focus on the "Small Fleet" (Manager cars, local delivery vans), not the big reefers.

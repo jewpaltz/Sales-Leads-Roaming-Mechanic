@@ -22,5 +22,10 @@
 *   **Status**: Likely a mix of dealers or local shops.
 *   **Opportunity**: "On-Site" at the loading dock. service the vans while they are being loaded.
 
+## 🔍 Research Links
+*   **Company Website**: [Evergreen Kosher Market](https://evergreenkosher.com/)
+*   **Google Business Profile**: [Search "Evergreen Kosher Market Monsey NY"](https://www.google.com/search?q=Evergreen+Kosher+Market+Monsey+NY)
+*   **Online Shopping**: [Shop Evergreen Kosher](https://shopevergreenkosher.com/)
+
 ## 📝 Notes
 *   This is a "Whale" client in the local kosher world. Professionalism is key.

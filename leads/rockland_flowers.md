@@ -21,5 +21,10 @@
 *   **Status**: Independent owner.
 *   **Opportunity**: Speed.
 
+## 🔍 Research Links
+*   **Google Business Profile**: [Search "Rockland Flowers Nanuet NY"](https://www.google.com/search?q=Rockland+Flowers+Nanuet+NY)
+*   **Facebook Page**: [Search Facebook](https://www.facebook.com/search/top?q=Rockland%20Flowers%20Nanuet)
+*   **Local Business Info**: [Better Business Bureau](https://www.bbb.org/search?find_text=Rockland%20Flowers%20Nanuet%20NY)
+
 ## 📝 Notes
 *   Another Congers lead (like Merry Maids). Good to cluster visits.

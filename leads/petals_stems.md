@@ -21,5 +21,10 @@
 *   **Status**: Local shop.
 *   **Opportunity**: Ease of use.
 
+## 🔍 Research Links
+*   **Google Business Profile**: [Search "Petals & Stems Middletown NY"](https://www.google.com/search?q=Petals+%26+Stems+Middletown+NY)
+*   **Facebook Page**: [Search Facebook](https://www.facebook.com/search/top?q=Petals%20and%20Stems%20Middletown)
+*   **Local Business Info**: [Better Business Bureau](https://www.bbb.org/search?find_text=Petals%20Stems%20Middletown%20NY)
+
 ## 📝 Notes
 *   Suffern is a border town (near NJ). Mention you cover them locally.

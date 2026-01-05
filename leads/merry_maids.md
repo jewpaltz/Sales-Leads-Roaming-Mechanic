@@ -21,5 +21,10 @@
 *   **Status**: Ed likely has a system, but efficiency is always a sell.
 *   **Opportunity**: Preventive Maintenance (Oil/Brakes) on site.
 
+## 🔍 Research Links
+*   **Company Website**: [Merry Maids](https://www.merrymaids.com/)
+*   **Google Business Profile**: [Search "Merry Maids Rockland NY"](https://www.google.com/search?q=Merry+Maids+Rockland+NY)
+*   **LinkedIn Company**: [Search LinkedIn](https://www.linkedin.com/search/results/companies/?keywords=Merry%20Maids)
+
 ## 📝 Notes
 *   Congers is a hub. Good location for a "Satellite" stop.

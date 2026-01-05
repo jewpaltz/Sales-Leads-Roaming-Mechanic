@@ -24,6 +24,11 @@
 *   **Status**: Likely use a local shop or dealer given the "well-maintained" comment.
 *   **Opportunity**: Convenience. "Keep them on the road, not in the shop."
 
+## 🔍 Research Links
+*   **Company Website**: [Sasso Plumbing & Heating](https://rocklandplumbing.com/)
+*   **Google Business Profile**: [Search "Sasso & Sons Plumbing Middletown NY"](https://www.google.com/search?q=Sasso+%26+Sons+Plumbing+Middletown+NY)
+*   **Local Business Info**: [Better Business Bureau](https://www.bbb.org/search?find_text=Sasso%20Plumbing%20Middletown%20NY)
+
 ## 📝 Notes
 *   Focus on Mike Sasso.
 *   Mention their 45+ year history.

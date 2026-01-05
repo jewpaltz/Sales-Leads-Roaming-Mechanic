@@ -23,5 +23,10 @@
 *   **Status**: Likely long-term relationship with a shop, but maybe open to "Preventative" on-site.
 *   **Opportunity**: Supplementing their current mechanic.
 
+## 🔍 Research Links
+*   **Google Business Profile**: [Search "Bug Runner Pest Control Middletown NY"](https://www.google.com/search?q=Bug+Runner+Pest+Control+Middletown+NY)
+*   **Pest Control Directory**: [PestWorld Directory](https://www.pestworld.org/find-a-pest-control-professional/)
+*   **Local Business Info**: [Better Business Bureau](https://www.bbb.org/search?find_text=Bug%20Runner%20Middletown%20NY)
+
 ## 📝 Notes
 *   They are a "Institution" in Rockland. Treat them with high respect.

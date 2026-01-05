@@ -23,5 +23,10 @@
 *   **Opportunity**: Rockland Coverage.
     *   *Script Adjustment*: "I know your HQ is in Elmsford, but for your trucks running calls in Rockland/Orange, do you want to tow them back across the bridge for service? We handle the Rockland fleet locally."
 
+## 🔍 Research Links
+*   **Company Website**: [Bruni & Campisi](https://bruniandcampisi.com/)
+*   **Google Business Profile**: [Search "Bruni & Campisi Middletown NY"](https://www.google.com/search?q=Bruni+%26+Campisi+Middletown+NY)
+*   **Service Area**: Westchester, Putnam, Rockland, Fairfield Counties
+
 ## 📝 Notes
 *   **Strategy**: Focus on the geographical split. Pitch handling the "West of Hudson" vehicles so they don't have to cross the Tappan Zee (Cuomo) Bridge for service.

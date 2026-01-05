@@ -22,5 +22,10 @@
 *   **Status**: Likely local.
 *   **Opportunity**: "Pre-Holiday" Inspections.
 
+## 🔍 Research Links
+*   **Google Business Profile**: [Search "Bassett Flowers Monticello NY"](https://www.google.com/search?q=Bassett+Flowers+Monticello+NY)
+*   **Facebook Page**: [Search Facebook](https://www.facebook.com/search/top?q=Bassett%20Flowers%20Monticello)
+*   **Local Business Info**: [Better Business Bureau](https://www.bbb.org/search?find_text=Bassett%20Flowers%20Monticello%20NY)
+
 ## 📝 Notes
 *   New City location. "Woman-owned" certified – be respectful and professional.

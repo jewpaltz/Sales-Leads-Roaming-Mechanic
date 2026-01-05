@@ -22,5 +22,10 @@
 *   **Status**: Likely local shops.
 *   **Opportunity**: Speed & Uptime.
 
+## 🔍 Research Links
+*   **Company Website**: [Eliminate 'Em Pest Control](https://eliminateem.com/)
+*   **Google Business Profile**: [Search "Eliminate 'Em Pest Control Rockland NY"](https://www.google.com/search?q=Eliminate+Em+Pest+Control+Rockland+NY)
+*   **Contact**: (866) 802-7378 - 24/7 Service
+
 ## 📝 Notes
 *   Verify if Kenny operates out of the local area or if there is a local branch manager.

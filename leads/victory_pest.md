@@ -22,5 +22,10 @@
 *   **Status**: Unknown.
 *   **Opportunity**: Privacy/Convenience.
 
+## 🔍 Research Links
+*   **Google Business Profile**: [Search "Victory Pest Control Middletown NY"](https://www.google.com/search?q=Victory+Pest+Control+Middletown+NY)
+*   **Pest Control Directory**: [PestWorld Directory](https://www.pestworld.org/find-a-pest-control-professional/)
+*   **Local Business Info**: [Better Business Bureau](https://www.bbb.org/search?find_text=Victory%20Pest%20Control%20Middletown%20NY)
+
 ## 📝 Notes
 *   Len is the key. Mention "Discreet Service" immediately to show you get their model.

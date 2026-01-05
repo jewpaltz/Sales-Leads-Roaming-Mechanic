@@ -22,5 +22,10 @@
 *   **Status**: Likely local shop.
 *   **Opportunity**: Convenience.
 
+## 🔍 Research Links
+*   **Google Business Profile**: [Search "Pest Arrest Middletown NY"](https://www.google.com/search?q=Pest+Arrest+Middletown+NY)
+*   **Pest Control Directory**: [PestWorld Directory](https://www.pestworld.org/find-a-pest-control-professional/)
+*   **Local Business Info**: [Better Business Bureau](https://www.bbb.org/search?find_text=Pest%20Arrest%20Middletown%20NY)
+
 ## 📝 Notes
 *   Monsey location -> High density area. On-site maintenance is huge because traffic in Monsey is tough; driving to a shop is a hassle.
